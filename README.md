@@ -9,6 +9,8 @@ The environment reads from a CSV file with four drifting reward distributions (â
 
 The goal of this project was to show how Q-Learning can be implemented in decision making and to show how it differentiates from random decision making.
 
+The findings showed that Reinforcement Learning can be used to replicate human learning and Q-Learning is an efficient way to simulate human behaviour.
+
 ---
 
 ## ğŸ“ Project Structure
